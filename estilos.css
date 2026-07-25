@@ -1,0 +1,21 @@
+h1{
+    color: #3d3d3d;
+    background-color: #e2edf2;
+}
+
+h2{
+    border-bottom: 1px solid black;
+}
+
+img{
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+figcaption{
+    color: lightgrey;   
+}
+
+p{
+    text-align: justify;
+}
